@@ -43,8 +43,8 @@ Pin 2 → button → GND (no resistor needed as the Arduino uses an internal pul
 
 
 ## Circuit Setup (images)
-![Circuit](images/circuit.jpg)
-![Closeup](images/circuit-closeup.jpg)
+![Circuit](images/circuit.JPG)
+![Closeup](images/circuit-closeup.JPG)
 
 
 ## Concepts Demonstrated
