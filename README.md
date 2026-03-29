@@ -53,5 +53,13 @@ Pin 2 → button → GND (no resistor needed as the Arduino uses an internal pul
 - Finite state machines
 - Non-blocking embedded timing
 
+
+## Future Improvements
+- Add long press detection to switch modes
+- Implement PWM brightness control
+- Add serial debugging output
+- Port project to ESP32
+
+
 ## Notes
 First project combining debouncing, state machines, and non-blocking timing together in one system.
