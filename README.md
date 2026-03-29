@@ -42,6 +42,11 @@ Pin 12 → 220Ω resistor → LED anode → LED cathode → GND
 Pin 2 → button → GND (no resistor needed as the Arduino uses an internal pull-up resistor via INPUT_PULLUP)
 
 
+## Circuit Setup (images)
+![Circuit](images/circuit.jpg)
+![Closeup](images/circuit-closeup.jpg)
+
+
 ## Concepts Demonstrated
 - GPIO input and output
 - Software debouncing
